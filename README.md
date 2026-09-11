@@ -17,7 +17,7 @@ O app mostra uma tela única com várias categorias empilhadas verticalmente. Ca
 ## Screenshots
 
 <p>
-  <img src="./screenshots/print1.png" width="260" />
+  <img src="./screenshots/print3.png" width="260" />
   <img src="./screenshots/print2.png" width="260" />
 </p>
 
